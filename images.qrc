@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/characters">
+        <file>Virus.png</file>
+        <file>Insect.png</file>
+        <file>Bacteria.png</file>
+        <file>BelladonnaFinal.png</file>
+        <file>BelladonnaOutlined.png</file>
+        <file>ForestScene.jpg</file>
+        <file>ForestScene3.png</file>
+        <file>BelladonnaEnergize.png</file>
+        <file>Bolt.png</file>
+        <file>cave_entrance.bmp</file>
+        <file>BiohazardSmall.png</file>
+        <file>Forest-06.bmp</file>
+        <file>forest_with_mushroom.bmp</file>
+        <file>Forest-04.png</file>
+    </qresource>
+</RCC>
