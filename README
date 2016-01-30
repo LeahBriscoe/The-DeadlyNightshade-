@@ -1,0 +1,16 @@
+A plant known as the Deadly Nightshade is the main player. Timer that allows 1 minute of game play, and each enemy that is not destroyed
+drains the player of energy.
+X key enables photosynthetic energy boost. that boost energy level.
+[Arrow Keys] to move player
+[SPACE] to release poison bullets.
+
+
+Level 1
+In a cave scene, the plant only has a single enemy. Bacteria moves downwards. Two spawn for every timeout.
+
+Level 2
+In a tropical jungle scene, the plant has two enemies for each timeout. One Bacteria and one Insect.
+
+Level3 3
+In a dark swamp, the plant has three enemies: Enemy, Insect, and Virus that spawns at each timeout. 
+The virus spawns especially fast as the spawn functions connects a timer to a specific Viral spawn function.
